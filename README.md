@@ -110,16 +110,14 @@ PRODIGY_CS_04/
 ├── main.py
 ├── README.md
 ├── .gitignore
-│
-└── screenshots/
-    └── screenshot.png
+└── screenshot.png
 ```
 
 ## Screenshot
 
 ### Keylogger GUI
 
-![Simple Keylogger](screenshots/screenshot.png)
+![Simple Keylogger](screenshot.png)
 
 ## Ethical Considerations
 
